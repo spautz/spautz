@@ -1,0 +1,26 @@
+{
+  "name": "spautz-readme",
+  "private": true,
+  "version": "1.0.0",
+  "homepage": "https://github.com/spautz",
+  "repository": "https://github.com/spautz/spautz",
+  "author": "Steven Pautz <spautz@gmail.com>",
+  "scripts": {
+    "format": "prettier --write \"**/*.*\""
+  },
+  "dependencies": {
+    "husky": "^4.2.5",
+    "lint-staged": "^10.2.11",
+    "prettier": "^2.0.5"
+  },
+  "lint-staged": {
+    "**/*.{css,html,js,jsx,json,less,md,scss,ts,tsx}": [
+      "prettier --write"
+    ]
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  }
+}
