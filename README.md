@@ -1,5 +1,7 @@
 ### Hello! 👋
 
+<img src="https://github-readme-stats.vercel.app/api?username=spautz&show_icons=true&count_private=true" align="right" alt="spautz" />
+
 Frontend developer. React, functional programming, UX.
 
 I drink a lot of tea. ☕
@@ -11,5 +13,3 @@ I drink a lot of tea. ☕
 | [React-Router-Hibernate](https://github.com/spautz/react-hibernate/tree/master/packages/react-router-hibernate)         | [![npm version](https://img.shields.io/npm/v/react-router-hibernate.svg)](https://www.npmjs.com/package/react-router-hibernate)         |
 | [Redux-Pauseable-Store](https://github.com/spautz/react-hibernate/tree/master/packages/redux-pauseable-store)           | [![npm version](https://img.shields.io/npm/v/redux-pauseable-store.svg)](https://www.npmjs.com/package/redux-pauseable-store)           |
 | [Redux-to-Recoil](https://github.com/spautz/redux-to-recoil)                                                            | [![npm version](https://img.shields.io/npm/v/redux-to-recoil.svg)](https://www.npmjs.com/package/redux-to-recoil)                       |
-
-<img src="https://github-readme-stats.vercel.app/api?username=spautz&show_icons=true&count_private=true" alt="spautz" />
