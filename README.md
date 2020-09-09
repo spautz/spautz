@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-Frontend developer. React, functional programming, UX.
+Frontend developer. React, functional programming, UX. [linkedin.com/spautz](https://www.linkedin.com/in/spautz/)
 
 I drink a lot of tea. ☕
 
