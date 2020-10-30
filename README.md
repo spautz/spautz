@@ -9,8 +9,8 @@ I drink a lot of tea. ☕
 
 ### NPM Packages
 
-**[@dynamic-selectors/core](https://github.com/spautz/dynamic-selectors/tree/master/packages/core)**:
-Selector functions with dynamic dependencies and params.
+**[@dynamic-selectors/core](https://github.com/spautz/dynamic-selectors/tree/main/packages/core)**:
+Selector functions with dynamic dependencies and params. Core library for [Dynamic Selectors](https://github.com/spautz/dynamic-selectors).
 <br>
 [![npm version](https://img.shields.io/npm/v/@dynamic-selectors/core.svg)](https://www.npmjs.com/package/@dynamic-selectors/core)
 [![npm downloads](https://img.shields.io/npm/dm/@dynamic-selectors/core.svg)](https://www.npmjs.com/package/@dynamic-selectors/core)
