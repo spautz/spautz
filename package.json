@@ -6,21 +6,20 @@
   "repository": "https://github.com/spautz/spautz",
   "author": "Steven Pautz <spautz@gmail.com>",
   "scripts": {
-    "format": "prettier --write \"**/*.*\""
+    "prepare": "husky install",
+    "format": "prettier --write .",
+    "format:verify": "prettier --list-different .",
+    "lint-staged": "lint-staged"
   },
-  "dependencies": {
-    "husky": "^4.2.5",
-    "lint-staged": "^10.2.11",
-    "prettier": "^2.0.5"
+  "dependencies": {},
+  "devDependencies": {
+    "husky": "6.0.0",
+    "lint-staged": "11.0.0",
+    "prettier": "2.3.0"
   },
   "lint-staged": {
     "**/*.{css,html,js,jsx,json,less,md,scss,ts,tsx}": [
       "prettier --write"
     ]
-  },
-  "husky": {
-    "hooks": {
-      "pre-commit": "lint-staged"
-    }
   }
 }
