@@ -7,10 +7,12 @@ I drink a lot of tea. [☕](./PROJECT-STATUS.md)
 
 <a href="https://coderstats.net/github/#spautz"><img src="https://github-readme-stats.vercel.app/api?username=spautz&show_icons=true&count_private=true" alt="spautz" /></a>
 
-### NPM Packages
+### Projects and Packages
 
-**[@dynamic-selectors/core](https://github.com/spautz/dynamic-selectors/tree/main/packages/core)**:
-Selector functions with dynamic dependencies and params. Core library for [Dynamic Selectors](https://github.com/spautz/dynamic-selectors).
+**[Dynamic Selectors](https://github.com/spautz/dynamic-selectors)**:
+Selector functions with dynamic dependencies and params.
+<br>
+[`@dynamic-selectors/core`](https://github.com/spautz/dynamic-selectors/tree/main/packages/core), [`@dynamic-selectors/with-reselect`](https://github.com/spautz/dynamic-selectors/tree/main/packages/with-reselect)
 <br>
 [![npm version](https://img.shields.io/npm/v/@dynamic-selectors/core.svg)](https://www.npmjs.com/package/@dynamic-selectors/core)
 [![npm downloads](https://img.shields.io/npm/dm/@dynamic-selectors/core.svg)](https://www.npmjs.com/package/@dynamic-selectors/core)
