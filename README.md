@@ -9,7 +9,7 @@ I drink a lot of tea. [☕](./PROJECT-STATUS.md)
 
 ### Projects and Packages
 
-**[changesets-format-with-git-links](https://github.com/spautz/changesets-changelog-format/tree/master/packages/changesets-format-with-git-links)**:
+**[changesets-format-with-git-links](https://github.com/spautz/changesets-changelog-format/tree/main/packages/changesets-format-with-git-links)**:
 Add commit, issue, and PR links to your Changesets changelog.
 <br>
 [![npm version](https://img.shields.io/npm/v/changesets-format-with-git-links.svg)](https://www.npmjs.com/package/changesets-format-with-git-links)
@@ -29,19 +29,19 @@ A simple, size-limited, offline-friendly cache.
 [![npm version](https://img.shields.io/npm/v/limited-cache.svg)](https://www.npmjs.com/package/limited-cache)
 [![npm downloads](https://img.shields.io/npm/dm/limited-cache.svg)](https://www.npmjs.com/package/limited-cache)
 
-**[React-Pauseable-Containers](https://github.com/spautz/react-hibernate/tree/master/packages/react-pauseable-containers)**:
+**[React-Pauseable-Containers](https://github.com/spautz/react-hibernate/tree/main/packages/react-pauseable-containers)**:
 Prevent subtrees from updating when context values change.
 <br>
 [![npm version](https://img.shields.io/npm/v/react-pauseable-containers.svg)](https://www.npmjs.com/package/react-pauseable-containers)
 [![npm downloads](https://img.shields.io/npm/dm/react-pauseable-containers.svg)](https://www.npmjs.com/package/react-pauseable-containers)
 
-**[React-Router-Hibernate](https://github.com/spautz/react-hibernate/tree/master/packages/react-router-hibernate)**:
+**[React-Router-Hibernate](https://github.com/spautz/react-hibernate/tree/main/packages/react-router-hibernate)**:
 Keep old routes mounted-but-inactive until you return.
 <br>
 [![npm version](https://img.shields.io/npm/v/react-router-hibernate.svg)](https://www.npmjs.com/package/react-router-hibernate)
 [![npm downloads](https://img.shields.io/npm/dm/react-router-hibernate.svg)](https://www.npmjs.com/package/react-router-hibernate)
 
-**[Redux-Pauseable-Store](https://github.com/spautz/react-hibernate/tree/master/packages/redux-pauseable-store)**:
+**[Redux-Pauseable-Store](https://github.com/spautz/react-hibernate/tree/main/packages/redux-pauseable-store)**:
 Derive one redux store from another, then pause it.
 <br>
 [![npm version](https://img.shields.io/npm/v/redux-pauseable-store.svg)](https://www.npmjs.com/package/redux-pauseable-store)
