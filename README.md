@@ -9,11 +9,11 @@ I drink a lot of tea. [☕](./PROJECT-STATUS.md)
 
 ### Projects and Packages
 
-**[changesets-format-with-git-links](https://github.com/spautz/changesets-changelog-format/tree/main/packages/changesets-format-with-git-links)**:
+**[changesets-format-with-issue-links](https://github.com/spautz/changesets-changelog-format/tree/main/packages/changesets-format-with-issue-links)**:
 Add commit, issue, and PR links to your Changesets changelog.
 <br>
-[![npm version](https://img.shields.io/npm/v/changesets-format-with-git-links.svg)](https://www.npmjs.com/package/changesets-format-with-git-links)
-[![npm downloads](https://img.shields.io/npm/dm/changesets-format-with-git-links.svg)](https://www.npmjs.com/package/changesets-format-with-git-links)
+[![npm version](https://img.shields.io/npm/v/changesets-format-with-issue-links.svg)](https://www.npmjs.com/package/changesets-format-with-issue-links)
+[![npm downloads](https://img.shields.io/npm/dm/changesets-format-with-issue-links.svg)](https://www.npmjs.com/package/changesets-format-with-issue-links)
 
 **[Dynamic Selectors](https://github.com/spautz/dynamic-selectors)**:
 Selector functions with dynamic dependencies and params.
