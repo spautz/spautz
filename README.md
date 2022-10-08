@@ -35,12 +35,6 @@ Prevent subtrees from updating when context values change.
 [![npm version](https://img.shields.io/npm/v/react-pauseable-containers.svg)](https://www.npmjs.com/package/react-pauseable-containers)
 [![npm downloads](https://img.shields.io/npm/dm/react-pauseable-containers.svg)](https://www.npmjs.com/package/react-pauseable-containers)
 
-**[React-Router-Hibernate](https://github.com/spautz/react-hibernate/tree/main/packages/react-router-hibernate)**:
-Keep old routes mounted-but-inactive until you return.
-<br>
-[![npm version](https://img.shields.io/npm/v/react-router-hibernate.svg)](https://www.npmjs.com/package/react-router-hibernate)
-[![npm downloads](https://img.shields.io/npm/dm/react-router-hibernate.svg)](https://www.npmjs.com/package/react-router-hibernate)
-
 **[Redux-Pauseable-Store](https://github.com/spautz/react-hibernate/tree/main/packages/redux-pauseable-store)**:
 Derive one redux store from another, then pause it.
 <br>

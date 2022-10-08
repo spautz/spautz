@@ -4,7 +4,7 @@
   "homepage": "https://github.com/spautz",
   "repository": "https://github.com/spautz/spautz",
   "author": "Steven Pautz <spautz@gmail.com>",
-  "packageManager": "pnpm@7.9.5",
+  "packageManager": "pnpm@7.13.2",
   "type": "module",
   "scripts": {
     "____ HOOKS _________________________________________________________": "",
