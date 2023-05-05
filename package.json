@@ -1,10 +1,23 @@
 {
-  "name": "spautz-readme",
+  "name": "@spautz/readme",
   "private": true,
-  "homepage": "https://github.com/spautz",
-  "repository": "https://github.com/spautz/spautz",
-  "author": "Steven Pautz <spautz@gmail.com>",
-  "packageManager": "pnpm@7.13.2",
+  "description": "My opinionated template for a npm library repo",
+  "license": "MIT",
+  "homepage": "https://github.com/spautz/spautz#readme",
+  "bugs": "https://github.com/spautz/spautz/issues",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spautz/spautz.git"
+  },
+  "author": {
+    "name": "Steven Pautz",
+    "url": "https://github.com/spautz"
+  },
+  "engines": {
+    "node": "^16 || ^18 || ^19 || ^20",
+    "pnpm": "^8"
+  },
+  "packageManager": "pnpm@8.4.0",
   "type": "module",
   "scripts": {
     "____ HOOKS _________________________________________________________": "",
@@ -18,9 +31,9 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "husky": "8.0.1",
-    "lint-staged": "13.0.3",
-    "prettier": "2.7.1"
+    "husky": "8.0.3",
+    "lint-staged": "13.2.2",
+    "prettier": "2.8.8"
   },
   "lint-staged": {
     "**/*.{css,html,js,jsx,json,less,md,scss,ts,tsx}": [
