@@ -5,7 +5,7 @@ Javascript/Typescript developer. React, functional programming, UX.
 
 I drink a lot of tea. [☕](./PROJECT-STATUS.md)
 
-<a href="https://coderstats.net/github/#spautz"><img src="https://github-readme-stats.vercel.app/api?username=spautz&show_icons=true&count_private=true" alt="spautz" /></a>
+<a href="https://coderstats.github.io/github/#spautz"><img src="https://github-readme-stats.vercel.app/api?username=spautz&show_icons=true&count_private=true" alt="spautz" /></a>
 
 ### Projects and Packages
 
