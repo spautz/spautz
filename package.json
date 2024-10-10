@@ -22,7 +22,7 @@
   "scripts": {
     "____ HOOKS _________________________________________________________": "",
     "preinstall": "npx only-allow pnpm",
-    "prepare": "husky install",
+    "prepare": "husky",
     "husky:precommit": "lint-staged",
     "husky:prepush": "pnpm run format:verify",
     "____ INDIVIDUAL COMMANDS ___________________________________________": "",
@@ -36,7 +36,7 @@
     "prettier": "3.3.3"
   },
   "lint-staged": {
-    "**/*.{css,html,js,jsx,json,less,md,scss,ts,tsx}": [
+    "*.{css,html,js,jsx,json,less,md,scss,ts,tsx,yaml}": [
       "prettier --write"
     ]
   }
