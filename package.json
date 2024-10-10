@@ -36,7 +36,7 @@
     "prettier": "3.3.3"
   },
   "lint-staged": {
-    "*.{css,html,js,jsx,json,less,md,scss,ts,tsx,yaml}": [
+    "*.{cjs,cts,css,html,js,jsx,json,less,md,mjs,mts,scss,ts,tsx,yaml}": [
       "prettier --write"
     ]
   }
