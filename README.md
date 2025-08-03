@@ -1,13 +1,18 @@
 ## Hello! 👋
 
 Javascript/Typescript developer. React, functional programming, UX.
-[linkedin.com/spautz](https://www.linkedin.com/in/spautz/)
+
+Dev blog: [stevenpautz.com](https://stevenpautz.com)<br/>
+Personal blog: [spautz.net](https://spautz.net)<br/>
+LinkedIn: [linkedin.com/spautz](https://www.linkedin.com/in/spautz/)
 
 I drink a lot of tea. [☕](./PROJECT-STATUS.md)
 
 <a href="https://coderstats.github.io/github/#spautz"><img src="https://github-readme-stats.vercel.app/api?username=spautz&show_icons=true&count_private=true" alt="spautz" /></a>
 
-### Projects and Packages
+### NPM Packages
+
+> Full list: [npmjs.com/~spautz](https://www.npmjs.com/~spautz)
 
 **[changesets-format-with-issue-links](https://github.com/spautz/changesets-changelog-format/tree/main/packages/changesets-format-with-issue-links#readme)**:
 Add commit, issue, and PR links to your Changesets changelog.
@@ -35,12 +40,6 @@ Prevent subtrees from updating when context values change.
 [![npm version](https://img.shields.io/npm/v/react-pauseable-containers.svg)](https://www.npmjs.com/package/react-pauseable-containers)
 [![npm downloads](https://img.shields.io/npm/dm/react-pauseable-containers.svg)](https://www.npmjs.com/package/react-pauseable-containers)
 
-**[Redux-Pauseable-Store](https://github.com/spautz/react-hibernate/tree/main/packages/redux-pauseable-store#readme)**:
-Derive one redux store from another, then pause it.
-<br />
-[![npm version](https://img.shields.io/npm/v/redux-pauseable-store.svg)](https://www.npmjs.com/package/redux-pauseable-store)
-[![npm downloads](https://img.shields.io/npm/dm/redux-pauseable-store.svg)](https://www.npmjs.com/package/redux-pauseable-store)
-
 **[Redux-to-Recoil](https://github.com/spautz/redux-to-recoil/tree/main/packages/redux-to-recoil#readme)**:
 Access your Redux store through Recoil.
 <br />
@@ -52,3 +51,8 @@ A minimal, immutable, deep set utility.
 <br />
 [![npm version](https://img.shields.io/npm/v/tiny-immutable-set.svg)](https://www.npmjs.com/package/tiny-immutable-set)
 [![npm downloads](https://img.shields.io/npm/dm/tiny-immutable-set.svg)](https://www.npmjs.com/package/tiny-immutable-set)
+
+### Repo and Project Templates
+
+**[Package Template](https://github.com/spautz/package-template)**<br>
+A monorepo for Javascript/Typescript packages
