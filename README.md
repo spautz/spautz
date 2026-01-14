@@ -8,11 +8,9 @@ LinkedIn: [linkedin.com/spautz](https://www.linkedin.com/in/spautz/)
 
 I drink a lot of tea. [☕](./PROJECT-STATUS.md)
 
-<a href="https://coderstats.github.io/github/#spautz"><img src="https://github-readme-stats.vercel.app/api?username=spautz&show_icons=true&count_private=true" alt="spautz" /></a>
+<a href="https://coderstats.github.io/github/#spautz"><img src="https://github-stats-extended.vercel.app/api?username=spautz&include_all_commits=true" alt="spautz" /></a>
 
 ### NPM Packages
-
-> Full list: [npmjs.com/~spautz](https://www.npmjs.com/~spautz)
 
 **[changesets-format-with-issue-links](https://github.com/spautz/changesets-changelog-format/tree/main/packages/changesets-format-with-issue-links#readme)**:
 Add commit, issue, and PR links to your Changesets changelog.
@@ -22,8 +20,6 @@ Add commit, issue, and PR links to your Changesets changelog.
 
 **[Dynamic Selectors](https://github.com/spautz/dynamic-selectors#readme)**:
 Selector functions with dynamic dependencies and params.
-<br />
-[`@dynamic-selectors/core`](https://github.com/spautz/dynamic-selectors/tree/main/packages/core#readme), [`@dynamic-selectors/with-reselect`](https://github.com/spautz/dynamic-selectors/tree/main/packages/with-reselect#readme)
 <br />
 [![npm version](https://img.shields.io/npm/v/@dynamic-selectors/core.svg)](https://www.npmjs.com/package/@dynamic-selectors/core)
 [![npm downloads](https://img.shields.io/npm/dm/@dynamic-selectors/core.svg)](https://www.npmjs.com/package/@dynamic-selectors/core)
@@ -52,7 +48,12 @@ A minimal, immutable, deep set utility.
 [![npm version](https://img.shields.io/npm/v/tiny-immutable-set.svg)](https://www.npmjs.com/package/tiny-immutable-set)
 [![npm downloads](https://img.shields.io/npm/dm/tiny-immutable-set.svg)](https://www.npmjs.com/package/tiny-immutable-set)
 
+Full list: [npmjs.com/~spautz](https://www.npmjs.com/~spautz)
+
 ### Repo and Project Templates
 
 **[Package Template](https://github.com/spautz/package-template)**<br>
-A monorepo for Javascript/Typescript packages
+A workspace for Javascript/Typescript packages
+
+**[Remote-Config Template](https://github.com/spautz/remote-config-template)**<br>
+Statically deployed configs with a SDK client
