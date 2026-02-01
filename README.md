@@ -8,7 +8,12 @@ LinkedIn: [linkedin.com/spautz](https://www.linkedin.com/in/spautz/)
 
 I drink a lot of tea. [☕](./PROJECT-STATUS.md)
 
-<a href="https://coderstats.github.io/github/#spautz"><img src="https://github-stats-extended.vercel.app/api?username=spautz&include_all_commits=true" alt="spautz" /></a>
+<a href="https://coderstats.github.io/github/#spautz"><picture>
+
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=spautz&include_all_commits=true&show_icons=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=spautz&include_all_commits=true&theme=github_dark&show_icons=true" />
+  <img alt="spautz" height="195" src="https://github-stats-extended.vercel.app/api?username=spautz&include_all_commits=true&show_icons=true" />
+</picture></a>
 
 ### NPM Packages
 
@@ -57,3 +62,6 @@ A workspace for Javascript/Typescript packages
 
 **[Remote-Config Template](https://github.com/spautz/remote-config-template)**<br>
 Statically deployed configs with a SDK client
+
+**[SDK-Wrapped Microfrontend Template](https://github.com/spautz/microfrontend-template)**<br>
+Microfrontends with safety nets and a better dev experience
